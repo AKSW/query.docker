@@ -1,0 +1,1 @@
+rdflib@git+https://github.com/RDFLib/rdflib@45034056789fb0efff37f632e52d9d564f5d957b
